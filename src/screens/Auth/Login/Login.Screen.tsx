@@ -1,7 +1,7 @@
 import { Text, View } from 'react-native'
 import React from 'react'
 
-const Login = () => {
+const LoginScreen = () => {
   return (
     <View>
       <Text>Login</Text>
@@ -9,5 +9,5 @@ const Login = () => {
   )
 }
 
-export default Login
+export default LoginScreen
 
